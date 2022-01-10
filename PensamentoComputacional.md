@@ -47,9 +47,16 @@ Para procurar a melhor forma de resolver os problemas pensando de forma computac
 
 
 ### Reconhecimento de padrões
-> 
+> Reconhecimento de padrões
+    Modelo base, Estrutura invariante, Repetição.
+    Por que determinar padrões? -> Generalizar.
+    Deve-se reconhecer padrões para poder identificar e verificar o melhor padrão a se aplicar
+    em uma solução do problema, desta forma economiza tempo e esforço para elaboração  de problemas
+    complexos.
 
 ### Abstração
+> Abstração
+    
 
 ### Algoritmos
 
