@@ -38,9 +38,16 @@ Para procurar a melhor forma de resolver os problemas pensando de forma computac
 ## Pilares do Pensamento Computacional
 
 ### Decomposição
-> 
+> Decomposição
+    Dividir para conquistar s2
+    Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis.
+    Primeira faze: Análise. Identificar o problema e decompor ele.
+    Segunda faze: Síntese, após decompor ela precisa ser recomposta e fazer sentido ao elemento original.
+    Existem várias maneiras de decompor um problema, então veja qual a melhor forma para você
+
 
 ### Reconhecimento de padrões
+> 
 
 ### Abstração
 
