@@ -18,8 +18,39 @@ Para procurar a melhor forma de resolver os problemas pensando de forma computac
     Design de algoritmos: Automatiza, Definir passo a passo a solução do problema.
     É um processo contínuo, de Teste, Análise, Refinamento.
     Definir uma solução, Testar a solução, Aperfeiçoamento da solução encontrada.
-    
+
 
 ### Habilidades complementares
+> Habilidades
+    Raciocínio lógico: Pensamento estruturado, que permite encontrar a conclusão de um problema.
+    Classificado como: Indução, Dedução, Abdução
+    Indução -> Fenômeno observado e criado Leis e teorias por base da visão.
+    Dedução -> Através das teorias, é possível prever determinado fato ou ação.
+    Abdução -> É para chegar em uma conclusão através de premissas. 
+    Inferência: Sintética, Analítica.
+    Sintética -> Abdução, Indução
+    Analítica -> Dedução
+    Ato de aperfeiçoar: Encontrar solução eficiente, otimizar processos -> Melhor uso de recursos.
+    Simplificar linhas de códigos, funções bem definidas -> Melhorar códigos e algoritmos.
+    Vantagens: Maior compreensão, Mais eficiência, Menos tempo, Menos armazenamento ...
+
+
+## Pilares do Pensamento Computacional
+
+### Decomposição
 > 
+
+### Reconhecimento de padrões
+
+### Abstração
+
+### Algoritmos
+
+## Estudos de caso
+
+### Estudo de caso
+
+### Estudo de caso 2
+
+### Conclusão do curso
 
